@@ -1,0 +1,85 @@
+
+body{
+background-color: rgb(6,40,99) ; 
+}
+input{
+    padding: 22px;
+    width: 350px;
+    background-color: rgb(237,242,247);
+    border: none;
+    outline: none;
+    /* margin-top: 90px; */
+    margin-left: 45px
+}
+.head{
+    text-align: center;
+    line-height: 3px;
+    font-family: sans-serif;
+    position: relative; top: 50px;
+}
+section{
+    background-color: white;
+    width: 470px;
+    height: 460px;
+    margin-left: 400px;
+    margin-top: 70px;
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    position: relative;
+    justify-content: center;
+}
+label{
+    margin-left: 50px;
+    
+    font-weight: bold;
+}
+button{
+    color: white;
+    background: blue;
+    border: none;
+    padding: 15px;
+    width: 350px;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    margin-left: 70px;
+    position: relative;top: 120px;
+    font-family: cursive;
+    font-size: larger;
+}
+button:hover{
+ background-color:  rgb(6,40,99) ;
+}
+label{
+    position: relative;top: 80px;
+    font-family: sans-serif;
+    color: rgb(74,85,104);
+}
+.int{
+    position: relative;top: 110px;
+    /* font-size: larger; */
+}
+.box{
+    position: relative; top: 90px;
+    /* font-size: larger; */
+}
+.reg{
+    text-align: center;
+}
+.pass{
+    text-align: center;
+    color: white;
+    /* font-weight: ; */
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-family: sans-serif;
+    margin-right: 70px;
+    line-height: 25px;
+}
+.jpeg{
+    margin-left: 540px;
+    position: relative;top: 30px;
+}
